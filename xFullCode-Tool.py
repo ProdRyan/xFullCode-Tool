@@ -503,9 +503,11 @@ def aboutme():
     │                                                     │
     │      Solo programo tools cuando ando aburrido.      │                      
     │                                                     │
-    │     Asi que no esperes Actualizaciones seguidas     │
+    │     Asi que no esperes Actualizaciones seguidas.    │
     │                                                     │
-    │ Esta tool iba a tener dox, pero mejor pa la privada │
+    │ Esta tool iba a tener dox, pero mejor pa la privada.│
+    │                                                     │
+    │  Si, xFullCode & xNetting son la misma persona. xD  │
     │                                                     │
     │                                                     │
     └─────────────────────────────────────────────────────┘
